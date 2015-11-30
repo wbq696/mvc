@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<joker>    
+   <h url="/nihao/aaa.jk" class="com.organic.life.handler.TestHandler"/>
+   <h url="/nihao/aaa!test.jk" class="com.organic.life.handler.TestHandler"/>
+   <h url="/nihao/aaa!111.jk" class="com.organic.life.handler.TestHandler"/>
+   <h url="/nnn/view.jk" class="com.organic.life.handler.ViewTestHandler"/>
+</joker> 
